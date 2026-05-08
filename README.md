@@ -49,7 +49,7 @@ gwo-feature-selection/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/gwo-feature-selection.git
+git clone https://github.com/mishra2arya/gwo-feature-selection.git
 cd gwo-feature-selection
 ```
 
